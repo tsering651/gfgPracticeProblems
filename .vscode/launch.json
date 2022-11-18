@@ -1,0 +1,560 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch nextGreatestLeft",
+            "request": "launch",
+            "mainClass": "Stack.nextGreatestLeft",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch paranthesisMatching",
+            "request": "launch",
+            "mainClass": "Stack.paranthesisMatching",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayImplementation",
+            "request": "launch",
+            "mainClass": "Stack.arrayImplementation",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "DailyPractice.Array.removeDuplicates",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteElement",
+            "request": "launch",
+            "mainClass": "DailyPractice.deleteElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch segregate0and1",
+            "request": "launch",
+            "mainClass": "DailyPractice.Array.segregate0and1",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findDuplicates",
+            "request": "launch",
+            "mainClass": "DailyPractice.Array.findDuplicates",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairSum",
+            "request": "launch",
+            "mainClass": "DailyPractice.Array.pairSum",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch segregateEvenOdd",
+            "request": "launch",
+            "mainClass": "LinkedList.segregateEvenOdd",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch detectLoop",
+            "request": "launch",
+            "mainClass": "LinkedList.detectLoop",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "LinkedList.removeDuplicates",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.reverseLinkedList",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findNthNodeFromEnd",
+            "request": "launch",
+            "mainClass": "LinkedList.findNthNodeFromEnd",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findMiddleNode",
+            "request": "launch",
+            "mainClass": "LinkedList.findMiddleNode",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch basicOperations",
+            "request": "launch",
+            "mainClass": "LinkedList.basicOperations",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestSubstring",
+            "request": "launch",
+            "mainClass": "Strings.longestSubstring",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch lexiographicRank",
+            "request": "launch",
+            "mainClass": "Strings.lexiographicRank",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagramSearch",
+            "request": "launch",
+            "mainClass": "Strings.anagramSearch",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch patternSearching",
+            "request": "launch",
+            "mainClass": "Strings.patternSearching",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch nearestPerfectSquare",
+            "request": "launch",
+            "mainClass": "ContestProblems.nearestPerfectSquare",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagramCheck",
+            "request": "launch",
+            "mainClass": "Strings.anagramCheck",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyOfCharacters",
+            "request": "launch",
+            "mainClass": "Strings.frequencyOfCharacters",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftMostRepeating",
+            "request": "launch",
+            "mainClass": "Strings.leftMostRepeating",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "Strings.palindrome",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch patternSearch",
+            "request": "launch",
+            "mainClass": "Strings.patternSearch",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseWords",
+            "request": "launch",
+            "mainClass": "Strings.reverseWords",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsequenceString",
+            "request": "launch",
+            "mainClass": "Strings.subsequenceString",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch allDivisors",
+            "request": "launch",
+            "mainClass": "allDivisors",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearchIterative",
+            "request": "launch",
+            "mainClass": "binarySearchIterative",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearchRecursive",
+            "request": "launch",
+            "mainClass": "binarySearchRecursive",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch bitwiseAND",
+            "request": "launch",
+            "mainClass": "bitwiseAND",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch booleanMatrix",
+            "request": "launch",
+            "mainClass": "booleanMatrix",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkPalindrome",
+            "request": "launch",
+            "mainClass": "checkPalindrome",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch consecutiveEvenOdd",
+            "request": "launch",
+            "mainClass": "consecutiveEvenOdd",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch consecutiveOnes",
+            "request": "launch",
+            "mainClass": "consecutiveOnes",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch convertNto1",
+            "request": "launch",
+            "mainClass": "convertNto1",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findLargestElement",
+            "request": "launch",
+            "mainClass": "findLargestElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstOccurenceIndex",
+            "request": "launch",
+            "mainClass": "firstOccurenceIndex",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequencyInsortedArray",
+            "request": "launch",
+            "mainClass": "frequencyInsortedArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch isSorted",
+            "request": "launch",
+            "mainClass": "isSorted",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch kthbitSet",
+            "request": "launch",
+            "mainClass": "kthbitSet",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcm",
+            "request": "launch",
+            "mainClass": "lcm",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leadersInArray",
+            "request": "launch",
+            "mainClass": "leadersInArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftRotateByD",
+            "request": "launch",
+            "mainClass": "leftRotateByD",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch digitCount",
+            "request": "launch",
+            "mainClass": "mathematics.digitCount",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial(1)",
+            "request": "launch",
+            "mainClass": "mathematics.factorial",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcd",
+            "request": "launch",
+            "mainClass": "mathematics.gcd",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch lcm(1)",
+            "request": "launch",
+            "mainClass": "mathematics.lcm",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrom",
+            "request": "launch",
+            "mainClass": "mathematics.palindrom",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch trailingZero",
+            "request": "launch",
+            "mainClass": "mathematics.trailingZero",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxDifference",
+            "request": "launch",
+            "mainClass": "maxDifference",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximizeProfit",
+            "request": "launch",
+            "mainClass": "maximizeProfit",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumSumSubarray",
+            "request": "launch",
+            "mainClass": "maximumSumSubarray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch moveZeroesToEnd",
+            "request": "launch",
+            "mainClass": "moveZeroesToEnd",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch peakElement",
+            "request": "launch",
+            "mainClass": "peakElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch prefixSum",
+            "request": "launch",
+            "mainClass": "prefixSum",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeFactors",
+            "request": "launch",
+            "mainClass": "primeFactors",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch printNto1",
+            "request": "launch",
+            "mainClass": "printNto1",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch priorityElement",
+            "request": "launch",
+            "mainClass": "priorityElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch problem1",
+            "request": "launch",
+            "mainClass": "problem1",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "removeDuplicates",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeatingElements01",
+            "request": "launch",
+            "mainClass": "repeatingElements01",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseAnArray",
+            "request": "launch",
+            "mainClass": "reverseAnArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ropeCutProblem",
+            "request": "launch",
+            "mainClass": "ropeCutProblem",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchInRotatedSorted",
+            "request": "launch",
+            "mainClass": "searchInRotatedSorted",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchInaInfiniteSortedArray",
+            "request": "launch",
+            "mainClass": "searchInaInfiniteSortedArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch secondLargestElement",
+            "request": "launch",
+            "mainClass": "secondLargestElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "selectionSort",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch setBitsCheck",
+            "request": "launch",
+            "mainClass": "setBitsCheck",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch slidingWindow1",
+            "request": "launch",
+            "mainClass": "slidingWindow1",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch squareRoot",
+            "request": "launch",
+            "mainClass": "squareRoot",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch subsetsOfString",
+            "request": "launch",
+            "mainClass": "subsetsOfString",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumOfdigits",
+            "request": "launch",
+            "mainClass": "sumOfdigits",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch towerOfHanoi",
+            "request": "launch",
+            "mainClass": "towerOfHanoi",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch trapWater",
+            "request": "launch",
+            "mainClass": "trapWater",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoPointerApproach",
+            "request": "launch",
+            "mainClass": "twoPointerApproach",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        }
+    ]
+}
