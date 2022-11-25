@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch areaOfhistogram",
+            "request": "launch",
+            "mainClass": "Stack.areaOfhistogram",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch stockSpan",
+            "request": "launch",
+            "mainClass": "Stack.stockSpan",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextGreatestRight",
+            "request": "launch",
+            "mainClass": "Stack.nextGreatestRight",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch nextGreatestLeft",
             "request": "launch",
             "mainClass": "Stack.nextGreatestLeft",
