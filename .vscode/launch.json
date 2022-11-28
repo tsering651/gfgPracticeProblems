@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch implementationUsingArray",
+            "request": "launch",
+            "mainClass": "Queue.implementationUsingArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch postfixEvaluation",
+            "request": "launch",
+            "mainClass": "Stack.postfixEvaluation",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch areaOfhistogram",
             "request": "launch",
             "mainClass": "Stack.areaOfhistogram",
