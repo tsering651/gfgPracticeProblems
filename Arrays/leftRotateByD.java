@@ -46,8 +46,8 @@ public class leftRotateByD {
     }
     public static void main(String[] args) {
         int arr[]={10,5,13,15};
-       // leftRotate(arr, 3);
-        leftrot(arr, 3);
+        leftRotate(arr, 3);
+        //leftrot(arr, 3);
 
     }
 }

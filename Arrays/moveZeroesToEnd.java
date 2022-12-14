@@ -18,6 +18,7 @@ public class moveZeroesToEnd {
         }
     }
     //efficient approach
+    //we keep track of the count of non zero elements and when we find a non zero element we swap it with the count index
     static void move(int arr[]){
         int n=arr.length;
         int count=0;

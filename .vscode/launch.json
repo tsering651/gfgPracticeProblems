@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch inOrderTraversal",
+            "request": "launch",
+            "mainClass": "inOrderTraversal",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumsOfSubarray",
+            "request": "launch",
+            "mainClass": "Queue.maximumsOfSubarray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayDeque",
+            "request": "launch",
+            "mainClass": "Queue.arrayDeque",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuffer01",
+            "request": "launch",
+            "mainClass": "Strings.StringBuffer01",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch DequeuJava",
+            "request": "launch",
+            "mainClass": "Queue.DequeuJava",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reversingQueue",
+            "request": "launch",
+            "mainClass": "Queue.reversingQueue",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch stackUsingQueue",
+            "request": "launch",
+            "mainClass": "Queue.stackUsingQueue",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch operationsOnQueue",
+            "request": "launch",
+            "mainClass": "Queue.operationsOnQueue",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch implementationUsingArray",
             "request": "launch",
             "mainClass": "Queue.implementationUsingArray",
