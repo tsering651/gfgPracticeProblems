@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch countNumberOfNodes",
+            "request": "launch",
+            "mainClass": "countNumberOfNodes",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch levelOrderByLine",
+            "request": "launch",
+            "mainClass": "levelOrderByLine",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch generateParenthesis",
+            "request": "launch",
+            "mainClass": "DailyPractice.generateParenthesis",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch levelOrderTraversal",
+            "request": "launch",
+            "mainClass": "levelOrderTraversal",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch inOrderTraversal",
             "request": "launch",
             "mainClass": "inOrderTraversal",

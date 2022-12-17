@@ -6,7 +6,13 @@ import java.util.*;
 class paranthesisMatching {
     
     public static boolean matching(char a,char b){
-        return (( a=='(' && b==')' )||( a=='[' && b==']' )||( a=='{' && b=='}' ));
+        if(a=='['&& b==')'){
+            return false;
+        }
+        else{
+            return (( a=='(' && b==')' )||( a=='[' && b==']' )||( a=='{' && b=='}' ));
+        }
+      
     }
     
     public static boolean isBalanced(String str){
@@ -33,7 +39,7 @@ class paranthesisMatching {
     
 	public static void main (String[] args) {
 	
-	    String str = "{()}"; 
+	    String str = "([)]"; 
     
         if (isBalanced(str)) 
             System.out.print("Balanced"); 
