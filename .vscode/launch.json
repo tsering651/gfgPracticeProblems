@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch childrenSum",
+            "request": "launch",
+            "mainClass": "childrenSum",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftViewOfBinaryTree",
+            "request": "launch",
+            "mainClass": "leftViewOfBinaryTree",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch countNumberOfNodes",
             "request": "launch",
             "mainClass": "countNumberOfNodes",
