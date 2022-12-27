@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch searchingInBST",
+            "request": "launch",
+            "mainClass": "searchingInBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leastCommonAncestor",
+            "request": "launch",
+            "mainClass": "leastCommonAncestor",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiralOrderTraversal",
+            "request": "launch",
+            "mainClass": "spiralOrderTraversal",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch widthOfBinaryTree",
+            "request": "launch",
+            "mainClass": "widthOfBinaryTree",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch childrenSum",
             "request": "launch",
             "mainClass": "childrenSum",
