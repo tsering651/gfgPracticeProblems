@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pairWithGivenSum",
+            "request": "launch",
+            "mainClass": "pairWithGivenSum",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch union",
+            "request": "launch",
+            "mainClass": "union",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersection",
+            "request": "launch",
+            "mainClass": "intersection",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch countFrequency",
+            "request": "launch",
+            "mainClass": "countFrequency",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDistinctElements",
+            "request": "launch",
+            "mainClass": "countDistinctElements",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashMap",
+            "request": "launch",
+            "mainClass": "hashMap",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch hashSet",
+            "request": "launch",
+            "mainClass": "hashSet",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch topViewBinaryTree",
+            "request": "launch",
+            "mainClass": "topViewBinaryTree",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch verticalOrderTraversal",
+            "request": "launch",
+            "mainClass": "verticalOrderTraversal",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch verticalSumInBST",
+            "request": "launch",
+            "mainClass": "verticalSumInBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairSumInBST",
+            "request": "launch",
+            "mainClass": "pairSumInBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch swapTwoNodesBST",
+            "request": "launch",
+            "mainClass": "swapTwoNodesBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkforBST",
+            "request": "launch",
+            "mainClass": "checkforBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch leftSideCeilingInArray",
+            "request": "launch",
+            "mainClass": "leftSideCeilingInArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch treeMapInJava",
+            "request": "launch",
+            "mainClass": "treeMapInJava",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch treeSetInJava",
+            "request": "launch",
+            "mainClass": "treeSetInJava",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch floorInBST",
+            "request": "launch",
+            "mainClass": "floorInBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch deleteInBst",
+            "request": "launch",
+            "mainClass": "deleteInBst",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertInBST",
+            "request": "launch",
+            "mainClass": "insertInBST",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch searchingInBST",
             "request": "launch",
             "mainClass": "searchingInBST",
