@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reservationTicketSir",
+            "request": "launch",
+            "mainClass": "ContestProblems.reservationTicketSir",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ticketBookingSystem",
+            "request": "launch",
+            "mainClass": "ContestProblems.ticketBookingSystem",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch queueImplemen",
+            "request": "launch",
+            "mainClass": "ContestProblems.queueImplemen",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertIntheMiddleStack",
+            "request": "launch",
+            "mainClass": "ContestProblems.insertIntheMiddleStack",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch kLargestElement",
+            "request": "launch",
+            "mainClass": "Heap.kLargestElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch purchasingMaximumItem",
+            "request": "launch",
+            "mainClass": "Heap.purchasingMaximumItem",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch priorityQueue",
+            "request": "launch",
+            "mainClass": "Heap.priorityQueue",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch coinExchangeProblem",
+            "request": "launch",
+            "mainClass": "ContestProblems.coinExchangeProblem",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "ContestProblems.fibonacci",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "ContestProblems.reverseString",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "ContestProblems.factorial",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstUniqueCharacter",
+            "request": "launch",
+            "mainClass": "ContestProblems.firstUniqueCharacter",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch printMiddleInLinkedList",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.printMiddleInLinkedList",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch adjacencyListGraph",
+            "request": "launch",
+            "mainClass": "Graphs.adjacencyListGraph",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSort",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.selectionSort",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.BinarySearch",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch countDistictElementInWindow",
+            "request": "launch",
+            "mainClass": "countDistictElementInWindow",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestConsecutiveSubsequence",
+            "request": "launch",
+            "mainClass": "longestConsecutiveSubsequence",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findMissingNumber",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.findMissingNumber",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkForPalindrome",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.checkForPalindrome",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciSequence",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.fibonacciSequence",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch checkVowel",
+            "request": "launch",
+            "mainClass": "InterviewQuestions.checkVowel",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "DailyPractice.reverseString",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestSubarrayInTwo",
+            "request": "launch",
+            "mainClass": "longestSubarrayInTwo",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestSubArrayWith01",
+            "request": "launch",
+            "mainClass": "longestSubArrayWith01",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumAppearingElement",
+            "request": "launch",
+            "mainClass": "maximumAppearingElement",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestSubArray",
+            "request": "launch",
+            "mainClass": "longestSubArray",
+            "projectName": "GeeksForGeeks_67ec3abd"
+        },
+        {
+            "type": "java",
             "name": "Launch pairWithGivenSum",
             "request": "launch",
             "mainClass": "pairWithGivenSum",
